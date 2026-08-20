@@ -1,0 +1,10 @@
+{
+  "alert": {
+    "enabled": false,
+    "en": "Clinic open as published. Edit this line in content/ops.json (or /admin) for a snow day or closure.",
+    "fr": "Clinique ouverte selon les heures publiées. Modifiez cette ligne dans content/ops.json (ou /admin) pour une tempête ou une fermeture."
+  },
+  "analytics": {
+    "goatcounter": ""
+  }
+}

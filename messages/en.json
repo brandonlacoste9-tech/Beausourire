@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "site": "Clinique Dentaire du Centre-Ville",
+    "description": "Downtown Montreal dental clinic since 1997. 980 Sainte-Catherine Ouest. Call 514-861-5252. Monday–Friday 9:00–19:00."
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "services": "Services",
+    "locations": "Location",
+    "clinic": "About",
+    "team": "Team",
+    "appointments": "Book",
+    "contact": "Contact",
+    "call": "Call",
+    "book": "Call",
+    "message": "info@",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "home": {
+    "kicker": "Downtown · since 1997",
+    "title": "Beausourire",
+    "lead": "Kids and adults at 980 Sainte-Catherine Ouest, suite 200. Book by phone — they do not publish an online calendar.",
+    "ctaCall": "Call 514-861-5252",
+    "ctaBook": "How to book",
+    "ctaForm": "Their registration form",
+    "tileHours": "Hours",
+    "tileHoursSub": "Mon–Fri 9:00–19:00",
+    "tileCall": "Book",
+    "tileCallSub": "Phone only",
+    "tileServices": "Services",
+    "tileServicesSub": "As they list them",
+    "tileContact": "Contact",
+    "tileContactSub": "Ste-Catherine Ouest",
+    "strip": "Phone · Downtown · Closed weekends",
+    "bookTitle": "See the dentist",
+    "bookLead": "This site does not book a slot. Their live homepage has no calendar. Call, or fill the form they already host.",
+    "svcKicker": "As listed",
+    "svcTitle": "Services",
+    "svcLead": "Names from their menu. They do not publish treatment write-ups or a fee list — we do not invent either.",
+    "svcMore": "All services",
+    "placeKicker": "one office",
+    "placeTitle": "Downtown",
+    "placeLead": "Business core of Montreal, as they write it. Suite 200.",
+    "placeMap": "Open in Maps",
+    "hoursTitle": "Hours",
+    "hoursWeek": "Monday–Friday",
+    "hoursWeekTime": "9:00–19:00",
+    "hoursSat": "Saturday",
+    "hoursSun": "Sunday",
+    "hoursClosed": "Closed",
+    "hoursNote": "As printed on the homepage sidebar. No weekend emergency number on the site we read.",
+    "aboutTitle": "Since 1997",
+    "aboutLead": "Complete dental care for children and adults, downtown. They write that they stay current by investing in equipment and staff training.",
+    "aboutCta": "About",
+    "hoursVisit": "On site",
+    "alertHint": "Desk can flip a snow-day bar without a developer. File: content/ops.json or /admin."
+  },
+  "locations": {
+    "kicker": "one chair downtown",
+    "title": "Location",
+    "lead": "980 Sainte-Catherine Ouest, suite 200 — business core, as they write it.",
+    "phoneHours": "When to call",
+    "visit": "On site",
+    "note": "Weekends closed. They do not publish metro directions on the current homepage; the address is enough to map.",
+    "maps": "Maps"
+  },
+  "appointments": {
+    "title": "Book",
+    "lead": "This site does not book a slot. Call during hours, or use the registration form on their live site.",
+    "hoursNote": "Monday–Friday 9:00–19:00. Saturday and Sunday closed — as on the homepage sidebar.",
+    "emailNote": "info@beausourire.com is on the homepage. We do not treat email as a booking desk.",
+    "urgentLead": "If this cannot wait and the clinic is closed: 911 or a hospital emergency room."
+  },
+  "team": {
+    "kicker": "not named online",
+    "title": "Team",
+    "lead": "Their old “Notre équipe” link is a 404. We do not invent dentist names. Call the desk, or use the form on their site.",
+    "formCta": "Their form",
+    "bookCta": "How to book"
+  },
+  "clinic": {
+    "kicker": "since 1997",
+    "title": "About",
+    "lead": "Conveniently located in the business heart of Montreal, complete dental care for kids and adults — as they write it in English. Established in 1997.",
+    "tech": "They say they stayed hi-tech by investing in equipment and staff training. The technology page has no body text; the photo is an original iPhone.",
+    "techCaption": "Their technology page, as published.",
+    "locationCta": "Location"
+  },
+  "contact": {
+    "kicker": "one phone",
+    "title": "Contact",
+    "emailTitle": "Email",
+    "emailNote": "Printed on the homepage. Does not book a visit.",
+    "map": "Maps",
+    "bookCta": "How to book"
+  },
+  "chat": {
+    "open": "Ask the clinic",
+    "title": "Beausourire",
+    "status": "Points you to the phone or their form. Does not book. Not medical advice.",
+    "close": "Close",
+    "placeholder": "Type your question…",
+    "placeholderReason": "Why are you seeking care?",
+    "placeholderAttached": "Patient here?",
+    "book": "How to book",
+    "bookPrompt": "I want to book an appointment",
+    "send": "Send",
+    "mic": "Speak",
+    "listening": "Listening…",
+    "emailNote": "Email the desk"
+  },
+  "footer": {
+    "line": "Downtown dental clinic · since 1997"
+  },
+  "hours": {
+    "banner": "514-861-5252 · Mon–Fri 9:00–19:00 · weekends closed"
+  },
+  "services": {
+    "kicker": "menu",
+    "title": "Services",
+    "lead": "Names from their menu. The individual service posts have no readable body. No fee list on the live site — we do not invent one.",
+    "book": "Book"
+  },
+  "walkin": {
+    "kicker": "hours",
+    "title": "Urgent care",
+    "lead": "They do not publish a walk-in clinic. Call 514-861-5252 while they are open. Weekends they print closed.",
+    "hours": "Monday–Friday 9:00–19:00. Saturday–Sunday closed.",
+    "hoursConflict": "No after-hours number on the site we scraped.",
+    "phoneOption": "514-861-5252. info@beausourire.com",
+    "listTitle": "Doors",
+    "item1": "Call during hours",
+    "item2": "New patients: their confidential form on beausourire.com",
+    "item3": "Closed Saturday and Sunday",
+    "item4": "After hours: 911 or a hospital ER",
+    "familyTitle": "First visit",
+    "formCta": "Their form",
+    "familyLead": "Use the form they already host, then call.",
+    "urgent": "Not a hospital ER.",
+    "back": "Book",
+    "contact": "Contact"
+  }
+}

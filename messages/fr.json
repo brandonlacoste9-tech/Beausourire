@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "site": "Clinique Dentaire du Centre-Ville",
+    "description": "Clinique dentaire au centre-ville depuis 1997. 980 Sainte-Catherine Ouest. 514-861-5252. Lundi au vendredi 9 h – 19 h."
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "services": "Services",
+    "locations": "Lieu",
+    "clinic": "À propos",
+    "team": "Équipe",
+    "appointments": "Réserver",
+    "contact": "Contact",
+    "call": "Appeler",
+    "book": "Appeler",
+    "message": "info@",
+    "menu": "Menu",
+    "close": "Fermer"
+  },
+  "home": {
+    "kicker": "Centre-ville · depuis 1997",
+    "title": "Beausourire",
+    "lead": "Enfants et adultes, 980 Sainte-Catherine Ouest, bureau 200. On réserve par téléphone — ils ne publient pas de calendrier en ligne.",
+    "ctaCall": "Appeler 514-861-5252",
+    "ctaBook": "Comment réserver",
+    "ctaForm": "Leur questionnaire",
+    "tileHours": "Heures",
+    "tileHoursSub": "Lun–ven 9 h – 19 h",
+    "tileCall": "Réserver",
+    "tileCallSub": "Téléphone seulement",
+    "tileServices": "Services",
+    "tileServicesSub": "Comme ils les listent",
+    "tileContact": "Contact",
+    "tileContactSub": "Ste-Catherine Ouest",
+    "strip": "Téléphone · Centre-ville · Fermé le week-end",
+    "bookTitle": "Voir le dentiste",
+    "bookLead": "Ce site ne réserve pas de plage. Leur accueil n’a pas de calendrier. Téléphonez, ou remplissez le formulaire qu’ils hébergent déjà.",
+    "svcKicker": "Comme listé",
+    "svcTitle": "Services",
+    "svcLead": "Les noms de leur menu. Ils ne publient pas de textes de traitement ni de liste de tarifs — on n’en invente pas.",
+    "svcMore": "Tous les services",
+    "placeKicker": "un bureau",
+    "placeTitle": "Centre-ville",
+    "placeLead": "Cœur des affaires de Montréal, comme ils l’écrivent. Bureau 200.",
+    "placeMap": "Ouvrir dans Cartes",
+    "hoursTitle": "Heures",
+    "hoursWeek": "Lundi au vendredi",
+    "hoursWeekTime": "9 h – 19 h",
+    "hoursSat": "Samedi",
+    "hoursSun": "Dimanche",
+    "hoursClosed": "Fermé",
+    "hoursNote": "Comme imprimé dans la barre latérale de l’accueil. Pas de numéro d’urgence le week-end sur le site que nous avons lu.",
+    "aboutTitle": "Depuis 1997",
+    "aboutLead": "Soins dentaires complets pour enfants et adultes, au centre-ville. Ils écrivent rester à jour par l’équipement et la formation du personnel.",
+    "aboutCta": "À propos",
+    "hoursVisit": "Sur place",
+    "alertHint": "Le bureau peut afficher une barre tempête sans développeur. Fichier : content/ops.json ou /admin."
+  },
+  "locations": {
+    "kicker": "un bureau au centre-ville",
+    "title": "Lieu",
+    "lead": "980 Sainte-Catherine Ouest, bureau 200 — cœur des affaires, comme ils l’écrivent.",
+    "phoneHours": "Quand appeler",
+    "visit": "Sur place",
+    "note": "Fins de semaine fermées. Ils ne publient pas d’indications métro sur l’accueil actuel ; l’adresse suffit pour la carte.",
+    "maps": "Cartes"
+  },
+  "appointments": {
+    "title": "Réserver",
+    "lead": "Ce site ne réserve pas de plage. Téléphonez pendant les heures, ou utilisez le questionnaire sur leur site.",
+    "hoursNote": "Lundi au vendredi 9 h – 19 h. Samedi et dimanche fermé — comme dans la barre latérale de l’accueil.",
+    "emailNote": "info@beausourire.com est sur l’accueil. On ne traite pas le courriel comme un bureau de rendez-vous.",
+    "urgentLead": "Si ça ne peut pas attendre et que la clinique est fermée : 911 ou l’urgence d’un hôpital."
+  },
+  "team": {
+    "kicker": "pas de noms en ligne",
+    "title": "Équipe",
+    "lead": "L’ancien lien « Notre équipe » est une 404. On n’invente pas de noms de dentistes. Téléphonez, ou utilisez le formulaire sur leur site.",
+    "formCta": "Leur formulaire",
+    "bookCta": "Comment réserver"
+  },
+  "clinic": {
+    "kicker": "depuis 1997",
+    "title": "À propos",
+    "lead": "Située au cœur du secteur des affaires de Montréal, soins complets pour enfants et adultes — comme ils l’écrivent. Établie depuis 1997.",
+    "tech": "Ils disent rester à la fine pointe par l’équipement et la formation. La page technologie n’a pas de texte ; la photo est un iPhone original.",
+    "techCaption": "Leur page technologie, telle que publiée.",
+    "locationCta": "Lieu"
+  },
+  "contact": {
+    "kicker": "un téléphone",
+    "title": "Contact",
+    "emailTitle": "Courriel",
+    "emailNote": "Imprimé sur l’accueil. Ne réserve pas de visite.",
+    "map": "Cartes",
+    "bookCta": "Comment réserver"
+  },
+  "chat": {
+    "open": "Demander à la clinique",
+    "title": "Beausourire",
+    "status": "Oriente vers le téléphone ou leur formulaire. Ne réserve pas. Pas un avis médical.",
+    "close": "Fermer",
+    "placeholder": "Écrivez votre question…",
+    "placeholderReason": "Pourquoi consultez-vous ?",
+    "placeholderAttached": "Patient ici ?",
+    "book": "Comment réserver",
+    "bookPrompt": "Je veux prendre rendez-vous",
+    "send": "Envoyer",
+    "mic": "Parler",
+    "listening": "Écoute…",
+    "emailNote": "Écrire au bureau"
+  },
+  "footer": {
+    "line": "Clinique dentaire du centre-ville · depuis 1997"
+  },
+  "hours": {
+    "banner": "514-861-5252 · Lun–ven 9 h – 19 h · fins de semaine fermées"
+  },
+  "services": {
+    "kicker": "menu",
+    "title": "Services",
+    "lead": "Noms de leur menu. Les billets de service n’ont pas de texte lisible. Pas de liste de tarifs sur le site — on n’en invente pas.",
+    "book": "Réserver"
+  },
+  "walkin": {
+    "kicker": "heures",
+    "title": "Urgence",
+    "lead": "Ils ne publient pas de sans rendez-vous. 514-861-5252 pendant les heures. Fins de semaine : fermé, selon eux.",
+    "hours": "Lundi au vendredi 9 h – 19 h. Samedi et dimanche fermé.",
+    "hoursConflict": "Pas de numéro hors heures sur le site que nous avons lu.",
+    "phoneOption": "514-861-5252. info@beausourire.com",
+    "listTitle": "Portes",
+    "item1": "Téléphoner pendant les heures",
+    "item2": "Nouveaux patients : leur questionnaire sur beausourire.com",
+    "item3": "Fermé samedi et dimanche",
+    "item4": "Hors heures : 911 ou l’urgence d’un hôpital",
+    "familyTitle": "Première visite",
+    "formCta": "Leur formulaire",
+    "familyLead": "Utilisez le formulaire qu’ils hébergent déjà, puis téléphonez.",
+    "urgent": "Pas l’urgence d’un hôpital.",
+    "back": "Réserver",
+    "contact": "Contact"
+  }
+}

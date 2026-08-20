@@ -1,0 +1,108 @@
+@import 'tailwindcss';
+
+:root {
+  --paper: #ffffff;
+  --ink: #14202c;
+  --muted: #5c6b7a;
+  --accent: #1f7eb0;
+  --teal: #1f7eb0;
+  --gold: #7eb8d4;
+  --navy: #163a5c;
+  --wash: #f2f7fa;
+  --line: #d4e3ec;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-teal: var(--teal);
+  --color-gold: var(--gold);
+  --color-navy: var(--navy);
+  --color-wash: var(--wash);
+  --color-line: var(--line);
+  --font-heading: var(--font-heading);
+  --font-sans: var(--font-body);
+}
+
+@layer base {
+  html {
+    background: var(--paper);
+    color: var(--ink);
+    scroll-padding-top: 6.5rem;
+  }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body), 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-heading), 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+}
+
+.gold-rule {
+  height: 1px;
+  background: rgb(255 255 255 / 0.12);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  padding: 0.7rem 1.2rem;
+  font-size: 0.875rem;
+  letter-spacing: 0.02em;
+  transition: background 160ms ease, color 160ms ease;
+}
+
+.btn-frost {
+  background: rgb(255 255 255 / 0.16);
+  color: #fff;
+  backdrop-filter: blur(16px);
+  border: 1px solid rgb(255 255 255 / 0.28);
+}
+
+.btn-frost:hover {
+  background: rgb(255 255 255 / 0.28);
+}
+
+.btn-solid {
+  background: var(--navy);
+  color: var(--paper);
+}
+
+.btn-solid:hover {
+  background: #1f7eb0;
+}
+
+.btn-ghost {
+  background: transparent;
+  color: inherit;
+  border: 1px solid currentColor;
+}
+
+.wordmark {
+  font-family: var(--font-heading), 'Arial Narrow', Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
